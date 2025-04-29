@@ -65,6 +65,11 @@ When revealed, the contract verifies correctness but keeps votes anonymous.
 
 Final result is publicly verifiable without exposing individual votes.
 
+![bb5-1](https://github.com/user-attachments/assets/59d20e42-fd20-4093-a32d-1f073218fe11)
+
+![bb5-2](https://github.com/user-attachments/assets/34e24569-8dea-426e-b7f0-ae5a8f17295f)
+
+![bb5-3](https://github.com/user-attachments/assets/34856c6a-c405-4120-84f3-a9647e643735)
 
 
 # High-Level Overview:
@@ -77,3 +82,4 @@ Prevents vote tampering while maintaining voter privacy.
 Mimics real-world ZK voting applications in governance and DAOs.
 
 # RESULT: 
+Thus to implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom is implemented successfully.
